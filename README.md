@@ -1,2 +1,12 @@
-# homepageweb
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="witdth=device-width, initial-scale=1.0">
+  <title>Document</title>
+  </head>
+<body>
+  <h1> Wecome to my home page</h1>
+  <p> TFull content comming soon ...  </p>
+</body>
+</html>  # homepageweb
 creating an HTML web page
