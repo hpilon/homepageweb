@@ -5,8 +5,7 @@
   <title>Document</title>
   </head>
 <body>
-  <h1> Wecome to my home page</h1>
-  <p> TFull content comming soon ...  </p>
+  <h1> Welcome to my home page</h1>
+  <p> Full content comming soon ...  </p>
 </body>
-</html>  # homepageweb
-creating an HTML web page
+</html> 
